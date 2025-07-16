@@ -1,1 +1,1 @@
-# mydjangosite
+# recipewebsite_django
